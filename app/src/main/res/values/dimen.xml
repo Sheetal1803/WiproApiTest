@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_large">8dp</dimen>
+    <dimen name="avg_margin">6dp</dimen>
+    <dimen name="icon_right_margin">12dp</dimen>
+    <dimen name="min_margin">2dp</dimen>
+    <dimen name="larger_text">30dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <!-- New Dimens-->
+    <dimen name="very_small_space">2dp</dimen>
+    <dimen name="small_space">4dp</dimen>
+    <dimen name="medium_space">6dp</dimen>
+    <dimen name="extra_medium_space">8dp</dimen>
+    <dimen name="large_space">12dp</dimen>
+    <dimen name="medium_large_space">15dp</dimen>
+    <dimen name="extra_large_space">18dp</dimen>
+    <dimen name="double_extra_large_space">24dp</dimen>
+    <dimen name="card_insets">2dp</dimen>
+    <dimen name="fingerprint_layout_margin">12dp</dimen>
+    <dimen name="img_width">100dp</dimen>
+
+</resources>

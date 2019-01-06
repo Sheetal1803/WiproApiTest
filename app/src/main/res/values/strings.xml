@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="try_again">RETRY</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="something_went_wrong">Looks Something went wrong</string>
+    <string name="no_internet_connection">Internet Error</string>
+    <string name="please_check_network">Please check your internet connection.\nAnd try again once you got network </string>
+</resources>
